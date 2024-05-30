@@ -13,7 +13,7 @@ pip install requests
 ```
 git clone --depth 1 https://github.com/NIKHILBAE/FB-BRUTE
 cd FB-BRUTE
-pip3 install -r requirements
+pip3 install -r requirements.txt
 python3 run.py
 ```
 
